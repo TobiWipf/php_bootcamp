@@ -1,0 +1,17 @@
+{
+    "name": "tobiwipf/php_bootcamp",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tobias Wipf",
+            "email": "tobiwipf@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
